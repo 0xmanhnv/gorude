@@ -1,5 +1,5 @@
-module github.com/canack/gorude
+module github.com/0xmanhnv/gorude
 
-go 1.17
+go 1.21
 
 require github.com/panjf2000/ants/v2 v2.4.7
